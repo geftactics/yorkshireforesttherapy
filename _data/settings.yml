@@ -152,7 +152,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: "G-MVHQW1XDXM"
   custom_styles: ""
   header_js: ""
   footer_js: ""
+  analytics_code: "<script async src='https://www.googletagmanager.com/gtag/js?id=G-MVHQW1XDXM'></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-MVHQW1XDXM');</script>"
