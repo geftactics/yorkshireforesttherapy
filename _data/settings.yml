@@ -27,9 +27,9 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/f/xjvdjznn'
   confirmation_url: '/thanks'
-  email_subject: 'Contact form website'
+  email_subject: 'Yorkshire Forest Therapy'
   send_button_text: 'Send Message'
 
 social_settings:

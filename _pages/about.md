@@ -1,7 +1,7 @@
 ---
 title: About us
-subtitle: Nature is our inspiration and our passion, and we strive to share its transformative power with everyone we serve
-description: Nature is our inspiration and our passion, and we strive to share its transformative power with everyone we serve
+subtitle: Nature is our inspiration and our passion, we strive to share its transformative power with everyone.
+description: Nature is our inspiration and our passion, we strive to share its transformative power with everyone.
 featured_image: /images/about.jpg
 ---
 
@@ -24,9 +24,3 @@ We've packed Personal full of powerful features to help showcase your work:
 * Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
 * Works with GitHub Pages
 * Updated and supported by the developers
-
-## Get Personal
-
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
