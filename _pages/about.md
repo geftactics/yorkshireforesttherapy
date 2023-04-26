@@ -1,8 +1,8 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/about.jpg
+title: About us
+subtitle: Nature is our inspiration and our passion, and we strive to share its transformative power with everyone we serve
+description: Nature is our inspiration and our passion, and we strive to share its transformative power with everyone we serve
+featured_image: /images/about.jpg
 ---
 
 ## Features
