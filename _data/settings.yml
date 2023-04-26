@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Workshops'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
@@ -21,7 +21,7 @@ footer_settings:
   footer_tagline: This is the footer text, put something here.
 
 hero_settings:
-  overlay_opacity: 0.3
+  overlay_opacity: 0.5
 
 post_settings:
   grid_spacing: 10
