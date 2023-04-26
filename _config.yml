@@ -10,7 +10,7 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  workshops:
+  projects:
     output: true
     permalink: /workshops/:slug
 
@@ -35,9 +35,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "workshops"
+      type: "projects"
     values:
-      layout: "workshop"
+      layout: "projects"
 
 markdown: kramdown
 
