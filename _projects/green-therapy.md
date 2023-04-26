@@ -1,9 +1,9 @@
 ---
 title: 'Green Therapy'
 subtitle: 'It aint easy being green!'
-date: 2019-06-30 00:00:00
+date: 2022-01-01 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/forest-bathing.jpg'
+featured_image: '/images/green-therapy.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)

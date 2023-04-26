@@ -1,7 +1,7 @@
 ---
 title: 'Reiki Healing'
 subtitle: 'Get more zen'
-date: 2018-06-30 00:00:00
+date: 2020-01-01 00:00:00
 description: This page shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/reiki-healing.jpg'
 ---
