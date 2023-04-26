@@ -21,7 +21,7 @@ footer_settings:
   footer_tagline: This is the footer text, put something here.
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.3
 
 post_settings:
   grid_spacing: 10
