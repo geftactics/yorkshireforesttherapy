@@ -23,38 +23,39 @@ One of the core aspects of a Forest Bathing Guide is having a strong connection 
 <iframe src="https://www.youtube.com/watch?v=fZ5XNDF_BnA" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+### What areas do Forest Bathing Guides work in?
 
-You can create lists:
+* Nature Based Workplace Wellbeing
+* Ecotourism
+* Stress Prevention
+* Forest Bathing for General Public
+* Personal Transformation
+* Nature & Wellbeing
+* Community work
+* Promoting flourishing and positive mental health
+* Environmental Groups
+* Workshops & Retreats
+* Forest Bathing for children/ adolescents/ adults/ older adults/ families 
+* Forest Bathing and nature based expressive arts 
 
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
 
-The theme also supports markdown tables:
+Research at the University of Exeter UK has shown that 120 minutes of nature contact a week can significantly promote health and wellbeing. Research groups around the world are working on what is the optimal “Dose of Nature” for different populations. 
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+* Physical Health: Spending time in nature reduces blood pressure, reduces stress, boosts immune system, improves blood sugar levels in diabetes, improves sleep, reduces risk of cardiovascular disease (heart attack and stroke), increases natural killer cells and can help with chronic pain.
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
+* Mental Health: Contact with nature reduces anxiety, improves mood, enhances general wellbeing, reduces depression, enhances concentration, improves cognitive functioning, reduces symptoms of ADHD. 
 
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
 
-You can throw in some horizontal rules too:
+* Social Wellbeing: Bringing people together in nature can strengthen relationships and community bonds, reduces social isolation, help social integration, and boosts confidence. Loneliness has the same impact on health as smoking 15 cigarettes a day. 
+
+* Spiritual Health: Experiencing awe and wonder in nature can lead to peak or transformative experiences. People who spend time in nature in a contemplative and reflective way get better insight into their life’s meaning and purpose. 
+
+
+
+At Yorkshire Forest Therapy, we offer a range of wellness pathways to cater for diverse needs and interests. Led by experienced guide Lix, our services include Forest Bathing and Reiki, which can be combined to provide a holistic and transformative experience.
+
+
 
 ---
 
@@ -69,20 +70,7 @@ Here's a really neat custom feature we added – galleries:
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
 
 ---
 
@@ -96,19 +84,3 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
