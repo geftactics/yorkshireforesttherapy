@@ -8,11 +8,20 @@ featured_image: '/images/forest-bathing.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+## Forest Bathing
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Forest Bathing experiences take you on a journey through the forest, immersing you in the sights, sounds, smells, and textures of nature. It is underpinned by mindfulness principles encouraging: the opening of the senses to the forest atmosphere; slowing walking through the forest; inhaling the forest air; and fostering an emotional connection to the landscape. By slowing down and engaging all your senses, you can tap into the healing power of nature and access a deep sense of calm and relaxation.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+> “A health promoting, nature connection practice that aims to enhance wellbeing, relieve stress, and encourage relaxation.”
+
+Forest Bathing is informed by the scientific evidence that aspects of the forest environment – such as rich biodiversity, phytoncides, microbes in the soil, negative ions, fractal patterns in nature, a natural soundscape, and unpolluted air – can enhance health and wellbeing. Forest Bathing takes a whole person approach and recognises the intrinsic healing capacity within everyone. It seeks to restore the dynamic balance of a living system by immersive meaningful nature experiences.
+
+In the past twenty years people’s lifestyles have significantly changed. People are now spending most of their lives indoors, on screens. They have lost their connection to the natural world. They have lost their connection to themselves. This has had a major impact not only on human health but also on planetary health. We need a new strengthened relationship with nature and a deep understanding of ourselves for a sustainable, healthy future.
+
+One of the core aspects of a Forest Bathing Guide is having a strong connection with the natural world so you can enhance that connection for the individuals and groups you work with.
+
+<iframe src="https://www.youtube.com/watch?v=fZ5XNDF_BnA" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -30,7 +39,6 @@ And:
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
 
 The theme also supports markdown tables:
 
@@ -93,7 +101,7 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 
 Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 
